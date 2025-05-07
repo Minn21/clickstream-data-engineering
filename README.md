@@ -36,7 +36,7 @@ This project demonstrates a complete data engineering pipeline that processes we
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Minn21/clickstream-data-engineering.git
 cd clickstream-data-engineering
 ```
 
